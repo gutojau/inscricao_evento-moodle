@@ -28,3 +28,4 @@ mod/inscricao_evento/
 ├── version.php               # Versão e informações do plugin
 ├── locallib.php              # Lógica customizada (ex: envio, verificação)
 └── settings.php              # Configurações globais da atividade (opcional)
+
